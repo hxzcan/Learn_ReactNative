@@ -3,6 +3,6 @@ import {
     AppRegistry
 } from 'react-native';
 
-import  WidthAndHeight from './WidthAndHeight';
+import  FlexboxDemo from './basicKnowledge/FlexboxDemo';
 
-module.exports=WidthAndHeight;
+module.exports=FlexboxDemo;
